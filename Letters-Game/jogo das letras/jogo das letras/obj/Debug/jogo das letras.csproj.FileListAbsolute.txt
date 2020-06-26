@@ -1,0 +1,44 @@
+Z:\Visual Studio\3bimestre\jogo das letras\jogo das letras\bin\Debug\jogo das letras.exe.config
+Z:\Visual Studio\3bimestre\jogo das letras\jogo das letras\bin\Debug\jogo das letras.exe
+Z:\Visual Studio\3bimestre\jogo das letras\jogo das letras\bin\Debug\jogo das letras.pdb
+Z:\Visual Studio\3bimestre\jogo das letras\jogo das letras\obj\Debug\jogo_das_letras.Form1.resources
+Z:\Visual Studio\3bimestre\jogo das letras\jogo das letras\obj\Debug\jogo_das_letras.Properties.Resources.resources
+Z:\Visual Studio\3bimestre\jogo das letras\jogo das letras\obj\Debug\jogo das letras.csproj.GenerateResource.Cache
+Z:\Visual Studio\3bimestre\jogo das letras\jogo das letras\obj\Debug\jogo das letras.exe
+Z:\Visual Studio\3bimestre\jogo das letras\jogo das letras\obj\Debug\jogo das letras.pdb
+Z:\Visual Studio\3bimestre\jogo das letras\jogo das letras\obj\Debug\jogo das letras.csprojResolveAssemblyReference.cache
+Z:\Visual Studio\3bimestre\jogo das letras\jogo das letras\obj\Debug\jogo_das_letras.Principal.resources
+Z:\Visual Studio\3bimestre\jogo das letras\jogo das letras\bin\Debug\MySql.Data.dll
+C:\Users\Edilene Peres Pc\Desktop\Eduardo FNE\LP\VisualStudio\jogo das letras\jogo das letras\bin\Debug\jogo das letras.exe.config
+C:\Users\Edilene Peres Pc\Desktop\Eduardo FNE\LP\VisualStudio\jogo das letras\jogo das letras\obj\Debug\jogo das letras.exe
+C:\Users\Edilene Peres Pc\Desktop\Eduardo FNE\LP\VisualStudio\jogo das letras\jogo das letras\obj\Debug\jogo das letras.pdb
+C:\Users\Edilene Peres Pc\Desktop\Eduardo FNE\LP\VisualStudio\jogo das letras\jogo das letras\bin\Debug\jogo das letras.exe
+C:\Users\Edilene Peres Pc\Desktop\Eduardo FNE\LP\VisualStudio\jogo das letras\jogo das letras\bin\Debug\jogo das letras.pdb
+C:\Users\Edilene Peres Pc\Desktop\Eduardo FNE\LP\VisualStudio\jogo das letras\jogo das letras\obj\Debug\jogo das letras.csprojResolveAssemblyReference.cache
+C:\Users\Edilene Peres Pc\Desktop\Eduardo FNE\LP\VisualStudio\jogo das letras\jogo das letras\obj\Debug\jogo_das_letras.Form1.resources
+C:\Users\Edilene Peres Pc\Desktop\Eduardo FNE\LP\VisualStudio\jogo das letras\jogo das letras\obj\Debug\jogo_das_letras.Principal.resources
+C:\Users\Edilene Peres Pc\Desktop\Eduardo FNE\LP\VisualStudio\jogo das letras\jogo das letras\obj\Debug\jogo_das_letras.Properties.Resources.resources
+C:\Users\Edilene Peres Pc\Desktop\Eduardo FNE\LP\VisualStudio\jogo das letras\jogo das letras\obj\Debug\jogo das letras.csproj.GenerateResource.Cache
+C:\Users\Edilene\Desktop\Eduardo\VisualStudio\Antigo\LP\VisualStudio\jogo das letras\jogo das letras\bin\Debug\jogo das letras.exe.config
+C:\Users\Edilene\Desktop\Eduardo\VisualStudio\Antigo\LP\VisualStudio\jogo das letras\jogo das letras\obj\Debug\jogo das letras.exe
+C:\Users\Edilene\Desktop\Eduardo\VisualStudio\Antigo\LP\VisualStudio\jogo das letras\jogo das letras\obj\Debug\jogo das letras.pdb
+C:\Users\Edilene\Desktop\Eduardo\VisualStudio\Antigo\LP\VisualStudio\jogo das letras\jogo das letras\bin\Debug\jogo das letras.exe
+C:\Users\Edilene\Desktop\Eduardo\VisualStudio\Antigo\LP\VisualStudio\jogo das letras\jogo das letras\bin\Debug\jogo das letras.pdb
+C:\Users\Edilene\Desktop\Eduardo\VisualStudio\Antigo\LP\VisualStudio\jogo das letras\jogo das letras\obj\Debug\jogo das letras.csprojResolveAssemblyReference.cache
+C:\Users\Edilene\Desktop\Eduardo\VisualStudio\Antigo\LP\VisualStudio\jogo das letras\jogo das letras\obj\Debug\jogo_das_letras.Form1.resources
+C:\Users\Edilene\Desktop\Eduardo\VisualStudio\Antigo\LP\VisualStudio\jogo das letras\jogo das letras\obj\Debug\jogo_das_letras.Principal.resources
+C:\Users\Edilene\Desktop\Eduardo\VisualStudio\Antigo\LP\VisualStudio\jogo das letras\jogo das letras\obj\Debug\jogo_das_letras.Properties.Resources.resources
+C:\Users\Edilene\Desktop\Eduardo\VisualStudio\Antigo\LP\VisualStudio\jogo das letras\jogo das letras\obj\Debug\jogo das letras.csproj.GenerateResource.Cache
+C:\Eduardo\VisualStudioC#\Antigo\LP\VisualStudio\jogo das letras\jogo das letras\bin\Debug\jogo das letras.exe.config
+C:\Eduardo\VisualStudioC#\Antigo\LP\VisualStudio\jogo das letras\jogo das letras\obj\Debug\jogo das letras.exe
+C:\Eduardo\VisualStudioC#\Antigo\LP\VisualStudio\jogo das letras\jogo das letras\obj\Debug\jogo das letras.pdb
+C:\Eduardo\GitHub\Projects\jogo das letras\jogo das letras\bin\Debug\jogo das letras.exe.config
+C:\Eduardo\GitHub\Projects\jogo das letras\jogo das letras\obj\Debug\jogo das letras.exe
+C:\Eduardo\GitHub\Projects\jogo das letras\jogo das letras\obj\Debug\jogo das letras.pdb
+C:\Eduardo\GitHub\Projects\jogo das letras\jogo das letras\bin\Debug\jogo das letras.exe
+C:\Eduardo\GitHub\Projects\jogo das letras\jogo das letras\bin\Debug\jogo das letras.pdb
+C:\Eduardo\GitHub\Projects\jogo das letras\jogo das letras\obj\Debug\jogo das letras.csprojResolveAssemblyReference.cache
+C:\Eduardo\GitHub\Projects\jogo das letras\jogo das letras\obj\Debug\jogo_das_letras.Form1.resources
+C:\Eduardo\GitHub\Projects\jogo das letras\jogo das letras\obj\Debug\jogo_das_letras.Principal.resources
+C:\Eduardo\GitHub\Projects\jogo das letras\jogo das letras\obj\Debug\jogo_das_letras.Properties.Resources.resources
+C:\Eduardo\GitHub\Projects\jogo das letras\jogo das letras\obj\Debug\jogo das letras.csproj.GenerateResource.Cache

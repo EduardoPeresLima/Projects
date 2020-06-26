@@ -1,0 +1,14 @@
+- Casinhas que dão dinheiro por nivel concluído
+- Reconstruir Casinhas
+- Itens Especiais:
+	Múltiplos tiros
+	Velocidade da bala
+	Área da explosão
+	Moedas extras
+	Escudos
+
+- Upgrades:
+	Velocidade da bala
+	Área da explosão
+	Duração de itens especiais
+	Porcentagem de chance de itens especiais
